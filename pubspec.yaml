@@ -1,0 +1,43 @@
+name: cityroammap
+description: "A new Flutter project."
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_hooks:
+  hooks_riverpod:
+
+  riverpod_annotation:
+  freezed_annotation:
+  json_annotation:
+
+  flutter_map:
+  flutter_portal:
+
+  url_launcher:
+  latlong2:   
+  intl:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+  build_runner:
+  freezed:
+  riverpod_generator:
+  json_serializable:
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
