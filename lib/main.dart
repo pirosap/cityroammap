@@ -75,18 +75,6 @@ class KumapPage extends ConsumerWidget {
               ),
             ],
           ),
-          Positioned(
-            top: 20, // 上からの位置
-            right: 20, // 右からの位置
-            child: Container(
-              width: 120, // 幅
-              height: 80, // 高さ
-              color: Colors.white, // 背景色
-              child: Center(
-                child: Text('Circle radius: 20m'), // 画像の凡例
-              ),
-            ),
-          ),
         ],
       ),
     );
