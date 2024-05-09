@@ -24,8 +24,8 @@ class KuCircleMarker extends CircleMarker {
           point: LatLng(kuma.latitude, kuma.longitude),
           radius: 25,
           useRadiusInMeter: true,
-          color: Colors.red.withOpacity(0.1),
-          borderColor: Colors.red,
+          color: kuma.type == 0 ? Colors.grey.withOpacity(0.1) : Colors.red.withOpacity(0.1),
+          borderColor: kuma.type == 0 ? Colors.grey : Colors.red,
         );
 
   final Kuma kuma;
