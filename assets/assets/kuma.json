@@ -1,5 +1,2633 @@
 [
     {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T19:00:00",
+        "description": "48:2F:6B:3C:FC:40",
+        "latitude": 35.64391708,
+        "longitude": 139.78381348,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T19:00:00",
+        "description": "48:2F:6B:3C:FC:50",
+        "latitude": 35.6437645,
+        "longitude": 139.78364563,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T19:00:00",
+        "description": "48:2F:6B:3D:39:80",
+        "latitude": 35.64384842,
+        "longitude": 139.78387451,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T19:00:00",
+        "description": "48:2F:6B:3D:39:90",
+        "latitude": 35.64373779,
+        "longitude": 139.78399658,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-02-17T04:00:00",
+        "description": "48:2F:6B:3D:AC:E1",
+        "latitude": 35.64361954,
+        "longitude": 139.78269958,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-02-17T04:00:00",
+        "description": "48:2F:6B:3D:AC:F1",
+        "latitude": 35.64360428,
+        "longitude": 139.78271484,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-05T00:00:00",
+        "description": "48:2F:6B:3D:B1:E3",
+        "latitude": 35.64331055,
+        "longitude": 139.78244019,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-02-17T04:00:00",
+        "description": "48:2F:6B:3D:B1:F3",
+        "latitude": 35.64343643,
+        "longitude": 139.78265381,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-02-17T04:00:00",
+        "description": "48:2F:6B:3E:49:A0",
+        "latitude": 35.64345551,
+        "longitude": 139.78265381,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-02-17T04:00:00",
+        "description": "48:2F:6B:3E:49:B0",
+        "latitude": 35.64343643,
+        "longitude": 139.78265381,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-04T04:00:00",
+        "description": "48:2F:6B:83:A0:01",
+        "latitude": 35.71453857,
+        "longitude": 139.77561951,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-04T04:00:00",
+        "description": "48:2F:6B:83:A0:11",
+        "latitude": 35.71463013,
+        "longitude": 139.77554321,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T19:00:00",
+        "description": "48:2F:6B:83:A1:81",
+        "latitude": 35.682827,
+        "longitude": 139.70179749,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T19:00:00",
+        "description": "48:2F:6B:83:A1:91",
+        "latitude": 35.6827774,
+        "longitude": 139.70188904,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T19:00:00",
+        "description": "48:2F:6B:83:A4:C3",
+        "latitude": 35.68288803,
+        "longitude": 139.70193481,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:83:A4:D3",
+        "latitude": 35.68299866,
+        "longitude": 139.70201111,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-04T04:00:00",
+        "description": "48:2F:6B:83:A5:21",
+        "latitude": 35.71436691,
+        "longitude": 139.77592468,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-04T04:00:00",
+        "description": "48:2F:6B:83:A5:31",
+        "latitude": 35.71447372,
+        "longitude": 139.77574158,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T09:00:00",
+        "description": "48:2F:6B:88:15:11",
+        "latitude": 35.67683411,
+        "longitude": 139.77832031,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-05-05T01:00:00",
+        "description": "48:2F:6B:88:3C:61",
+        "latitude": 35.66793442,
+        "longitude": 139.76820374,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-05-05T01:00:00",
+        "description": "48:2F:6B:88:3C:71",
+        "latitude": 35.66838837,
+        "longitude": 139.76696777,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-06T13:00:00",
+        "description": "48:2F:6B:8A:9F:E3",
+        "latitude": 35.72930527,
+        "longitude": 139.71374512,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-06T13:00:00",
+        "description": "48:2F:6B:8A:9F:F3",
+        "latitude": 35.72981262,
+        "longitude": 139.71473694,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-18T22:00:00",
+        "description": "48:2F:6B:8A:A0:20",
+        "latitude": 35.66863632,
+        "longitude": 139.77342224,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A0:30",
+        "latitude": 35.66822815,
+        "longitude": 139.77281189,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A1:C2",
+        "latitude": 35.66679001,
+        "longitude": 139.75720215,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A1:D2",
+        "latitude": 35.66661072,
+        "longitude": 139.75724792,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-24T22:00:00",
+        "description": "48:2F:6B:8A:A2:43",
+        "latitude": 35.68228149,
+        "longitude": 139.77972412,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-09T10:00:00",
+        "description": "48:2F:6B:8A:A2:53",
+        "latitude": 35.68166733,
+        "longitude": 139.78013611,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A2:A3",
+        "latitude": 35.66761398,
+        "longitude": 139.75856018,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A2:B3",
+        "latitude": 35.66769409,
+        "longitude": 139.75862122,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-04T03:00:00",
+        "description": "48:2F:6B:8A:A3:23",
+        "latitude": 35.6684227,
+        "longitude": 139.75497437,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A3:33",
+        "latitude": 35.6682663,
+        "longitude": 139.75497437,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T08:00:00",
+        "description": "48:2F:6B:8A:A4:22",
+        "latitude": 35.675457,
+        "longitude": 139.77168274,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T08:00:00",
+        "description": "48:2F:6B:8A:A4:32",
+        "latitude": 35.6756134,
+        "longitude": 139.77168274,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T08:00:00",
+        "description": "48:2F:6B:8A:A4:F1",
+        "latitude": 35.68354034,
+        "longitude": 139.772995,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-06T13:00:00",
+        "description": "48:2F:6B:8A:A5:42",
+        "latitude": 35.72874832,
+        "longitude": 139.7155304,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-06T13:00:00",
+        "description": "48:2F:6B:8A:A5:52",
+        "latitude": 35.7289238,
+        "longitude": 139.71488953,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-02-03T11:00:00",
+        "description": "48:2F:6B:8A:A6:E2",
+        "latitude": 35.7310791,
+        "longitude": 139.70954895,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-02-03T11:00:00",
+        "description": "48:2F:6B:8A:A6:F2",
+        "latitude": 35.7313652,
+        "longitude": 139.70977783,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-24T04:00:00",
+        "description": "48:2F:6B:8A:A7:81",
+        "latitude": 35.68519211,
+        "longitude": 139.77688599,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-04T19:00:00",
+        "description": "48:2F:6B:8A:A7:91",
+        "latitude": 35.68599701,
+        "longitude": 139.77690125,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A8:02",
+        "latitude": 35.66782379,
+        "longitude": 139.7570343,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:A8:12",
+        "latitude": 35.66757584,
+        "longitude": 139.75770569,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T08:00:00",
+        "description": "48:2F:6B:8A:A9:A0",
+        "latitude": 35.68868637,
+        "longitude": 139.77301025,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T08:00:00",
+        "description": "48:2F:6B:8A:A9:B0",
+        "latitude": 35.68870163,
+        "longitude": 139.77354431,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T08:00:00",
+        "description": "48:2F:6B:8A:A9:D0",
+        "latitude": 35.66380692,
+        "longitude": 139.75619507,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-08T23:00:00",
+        "description": "48:2F:6B:8A:AA:63",
+        "latitude": 35.66433716,
+        "longitude": 139.77294922,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:AA:73",
+        "latitude": 35.6651001,
+        "longitude": 139.77212524,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-04-21T02:00:00",
+        "description": "48:2F:6B:8A:AD:D1",
+        "latitude": 35.731987,
+        "longitude": 139.71096802,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-21T02:00:00",
+        "description": "48:2F:6B:8A:AE:22",
+        "latitude": 35.73296356,
+        "longitude": 139.7109375,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-21T02:00:00",
+        "description": "48:2F:6B:8A:AE:32",
+        "latitude": 35.73267365,
+        "longitude": 139.71017456,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-06T13:00:00",
+        "description": "48:2F:6B:8A:AE:D0",
+        "latitude": 35.73032379,
+        "longitude": 139.71533203,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-29T01:00:00",
+        "description": "48:2F:6B:8A:AF:02",
+        "latitude": 35.66092682,
+        "longitude": 139.73469543,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-08T18:00:00",
+        "description": "48:2F:6B:8A:AF:12",
+        "latitude": 35.66114426,
+        "longitude": 139.73471069,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-19T05:00:00",
+        "description": "48:2F:6B:8A:AF:20",
+        "latitude": 35.66882324,
+        "longitude": 139.77368164,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-05T01:00:00",
+        "description": "48:2F:6B:8A:AF:30",
+        "latitude": 35.66879654,
+        "longitude": 139.77352905,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-16T09:00:00",
+        "description": "48:2F:6B:8A:AF:43",
+        "latitude": 35.68982315,
+        "longitude": 139.76937866,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-02T23:00:00",
+        "description": "48:2F:6B:8A:AF:53",
+        "latitude": 35.69029617,
+        "longitude": 139.77006531,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-23T02:00:00",
+        "description": "48:2F:6B:8A:B0:60",
+        "latitude": 35.72872543,
+        "longitude": 139.71569824,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-06T13:00:00",
+        "description": "48:2F:6B:8A:B0:70",
+        "latitude": 35.72898102,
+        "longitude": 139.71472168,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-21T02:00:00",
+        "description": "48:2F:6B:8A:B0:A0",
+        "latitude": 35.73324203,
+        "longitude": 139.71182251,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-21T02:00:00",
+        "description": "48:2F:6B:8A:B0:B0",
+        "latitude": 35.73289108,
+        "longitude": 139.71133423,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-08T18:00:00",
+        "description": "48:2F:6B:8A:B1:C0",
+        "latitude": 35.68835831,
+        "longitude": 139.77252197,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T09:00:00",
+        "description": "48:2F:6B:8A:B1:D0",
+        "latitude": 35.68848419,
+        "longitude": 139.77285767,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-23T02:00:00",
+        "description": "48:2F:6B:8A:B3:61",
+        "latitude": 35.66558456,
+        "longitude": 139.75531006,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-04T03:00:00",
+        "description": "48:2F:6B:8A:B3:71",
+        "latitude": 35.66573715,
+        "longitude": 139.75540161,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-09T10:00:00",
+        "description": "48:2F:6B:8A:B4:83",
+        "latitude": 35.67681503,
+        "longitude": 139.77229309,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T09:00:00",
+        "description": "48:2F:6B:8A:B4:93",
+        "latitude": 35.67707443,
+        "longitude": 139.77224731,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-04T03:00:00",
+        "description": "48:2F:6B:8A:B7:22",
+        "latitude": 35.66692352,
+        "longitude": 139.75411987,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-04T03:00:00",
+        "description": "48:2F:6B:8A:B7:32",
+        "latitude": 35.66645432,
+        "longitude": 139.75402832,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-05T01:00:00",
+        "description": "48:2F:6B:8A:B7:41",
+        "latitude": 35.68248367,
+        "longitude": 139.77981567,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-09T10:00:00",
+        "description": "48:2F:6B:8A:B7:51",
+        "latitude": 35.68216324,
+        "longitude": 139.78121948,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-05T01:00:00",
+        "description": "48:2F:6B:8A:B9:80",
+        "latitude": 35.67089844,
+        "longitude": 139.76846313,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-05T01:00:00",
+        "description": "48:2F:6B:8A:B9:90",
+        "latitude": 35.67105484,
+        "longitude": 139.76852417,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T09:00:00",
+        "description": "48:2F:6B:8A:BA:E3",
+        "latitude": 35.66697311,
+        "longitude": 139.75979614,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:BA:F3",
+        "latitude": 35.66701889,
+        "longitude": 139.75973511,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-06T13:00:00",
+        "description": "48:2F:6B:8A:BC:C2",
+        "latitude": 35.72969818,
+        "longitude": 139.71325684,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-02T23:00:00",
+        "description": "48:2F:6B:8A:BC:D2",
+        "latitude": 35.72992706,
+        "longitude": 139.71334839,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-01T03:00:00",
+        "description": "48:2F:6B:8A:BF:20",
+        "latitude": 35.68331528,
+        "longitude": 139.77145386,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-09T10:00:00",
+        "description": "48:2F:6B:8A:BF:30",
+        "latitude": 35.6848259,
+        "longitude": 139.77046204,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T09:00:00",
+        "description": "48:2F:6B:8A:BF:43",
+        "latitude": 35.68959808,
+        "longitude": 139.77944946,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T09:00:00",
+        "description": "48:2F:6B:8A:BF:53",
+        "latitude": 35.68994141,
+        "longitude": 139.77920532,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-09T10:00:00",
+        "description": "48:2F:6B:8A:C0:03",
+        "latitude": 35.68057251,
+        "longitude": 139.78045654,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-27T10:00:00",
+        "description": "48:2F:6B:8A:C0:13",
+        "latitude": 35.67956161,
+        "longitude": 139.77975464,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:C0:62",
+        "latitude": 35.67098999,
+        "longitude": 139.76539612,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:C0:72",
+        "latitude": 35.67111969,
+        "longitude": 139.76509094,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-08T23:00:00",
+        "description": "48:2F:6B:8A:C0:83",
+        "latitude": 35.66934967,
+        "longitude": 139.77212524,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-18T22:00:00",
+        "description": "48:2F:6B:8A:C0:93",
+        "latitude": 35.66903305,
+        "longitude": 139.77235413,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-08T16:00:00",
+        "description": "48:2F:6B:8A:C1:23",
+        "latitude": 35.67221069,
+        "longitude": 139.75286865,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:C1:33",
+        "latitude": 35.67220306,
+        "longitude": 139.75276184,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-24T22:00:00",
+        "description": "48:2F:6B:8A:C1:83",
+        "latitude": 35.67121887,
+        "longitude": 139.7726593,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-24T22:00:00",
+        "description": "48:2F:6B:8A:C1:93",
+        "latitude": 35.67099762,
+        "longitude": 139.77307129,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-24T22:00:00",
+        "description": "48:2F:6B:8A:C2:E2",
+        "latitude": 35.67471313,
+        "longitude": 139.77377319,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-28T09:00:00",
+        "description": "48:2F:6B:8A:C2:F2",
+        "latitude": 35.67469406,
+        "longitude": 139.77357483,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-08T18:00:00",
+        "description": "48:2F:6B:8A:C4:A0",
+        "latitude": 35.68749237,
+        "longitude": 139.7699585,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-04-24T00:00:00",
+        "description": "48:2F:6B:8A:C4:B0",
+        "latitude": 35.68690872,
+        "longitude": 139.76934814,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-06T02:00:00",
+        "description": "48:2F:6B:8A:C5:A0",
+        "latitude": 35.67152023,
+        "longitude": 139.76637268,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-05-05T01:00:00",
+        "description": "48:2F:6B:8A:C5:B0",
+        "latitude": 35.67152023,
+        "longitude": 139.76608276,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "0",
+        "confirmedTime": "2024-03-24T04:00:00",
+        "description": "48:2F:6B:8A:C6:82",
+        "latitude": 35.69065857,
+        "longitude": 139.77236938,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:78:A1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:78:B1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:78:C1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:78:D1",
+        "latitude": 43.03567886,
+        "longitude": 141.47167969,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:79:21",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:79:31",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:79:61",
+        "latitude": 43.03559113,
+        "longitude": 141.47171021,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:79:71",
+        "latitude": 43.03559113,
+        "longitude": 141.47171021,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:9E:21",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:9E:31",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:9E:61",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:9E:71",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:A6:41",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:A6:51",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:DC:C1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:DC:D1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:DC:E1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5E:DC:F1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5F:78:D1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "20:9E:F7:5F:7B:A1",
+        "latitude": 43.03568268,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "20:9E:F7:5F:7B:B1",
+        "latitude": 43.03568268,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5F:7F:41",
+        "latitude": 43.03564453,
+        "longitude": 141.47167969,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:5F:7F:51",
+        "latitude": 43.03561401,
+        "longitude": 141.47169495,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "20:9E:F7:60:EA:01",
+        "latitude": 43.03568268,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:EA:11",
+        "latitude": 43.03564835,
+        "longitude": 141.47167969,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "20:9E:F7:60:EA:41",
+        "latitude": 43.03568268,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "20:9E:F7:60:EA:51",
+        "latitude": 43.03568268,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:ED:E1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:ED:F1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:EE:01",
+        "latitude": 43.03559875,
+        "longitude": 141.47169495,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:EE:11",
+        "latitude": 43.03566742,
+        "longitude": 141.47167969,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:F1:41",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:F1:51",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "20:9E:F7:60:FD:61",
+        "latitude": 43.03568268,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:60:FD:71",
+        "latitude": 43.03569412,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:69:01",
+        "latitude": 43.0354805,
+        "longitude": 141.47175598,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:69:11",
+        "latitude": 43.0354805,
+        "longitude": 141.47175598,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:69:21",
+        "latitude": 43.03518295,
+        "longitude": 141.47186279,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:69:31",
+        "latitude": 43.03480911,
+        "longitude": 141.4720459,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:69:61",
+        "latitude": 43.03572464,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:69:71",
+        "latitude": 43.03569794,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:69:D1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:01",
+        "latitude": 43.0354805,
+        "longitude": 141.47175598,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:11",
+        "latitude": 43.0354805,
+        "longitude": 141.47175598,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:21",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:31",
+        "latitude": 43.0354805,
+        "longitude": 141.47175598,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:41",
+        "latitude": 43.03540039,
+        "longitude": 141.47177124,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:51",
+        "latitude": 43.03559113,
+        "longitude": 141.47171021,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:61",
+        "latitude": 43.03556824,
+        "longitude": 141.47171021,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:71",
+        "latitude": 43.03561401,
+        "longitude": 141.47169495,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:81",
+        "latitude": 43.03578568,
+        "longitude": 141.47161865,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:91",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:C1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:D1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:E1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6A:F1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:01",
+        "latitude": 43.03555679,
+        "longitude": 141.47172546,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:11",
+        "latitude": 43.0356102,
+        "longitude": 141.47169495,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:21",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:31",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:41",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:51",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:61",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:71",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:A1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:B1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:C1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6B:D1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:01",
+        "latitude": 43.03559875,
+        "longitude": 141.47171021,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:11",
+        "latitude": 43.03557587,
+        "longitude": 141.47171021,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:21",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:31",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:41",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:51",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:61",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:71",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:81",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:91",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:A1",
+        "latitude": 43.0357132,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:B1",
+        "latitude": 43.03570175,
+        "longitude": 141.47166443,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:C1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6C:D1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:21",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:31",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:41",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:51",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:61",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:71",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:E1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6D:F1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6E:01",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6E:11",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6E:81",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6E:91",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6E:A1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6E:B1",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6F:01",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6F:11",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6F:21",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-21T01:00:00",
+        "description": "20:9E:F7:61:6F:31",
+        "latitude": 43.03575897,
+        "longitude": 141.47164917,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:29:43",
+        "latitude": 43.06603622,
+        "longitude": 141.49414062,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:29:53",
+        "latitude": 43.06545258,
+        "longitude": 141.49421692,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2A:53",
+        "latitude": 43.06541443,
+        "longitude": 141.49436951,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:2A:63",
+        "latitude": 43.06557846,
+        "longitude": 141.49432373,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2A:73",
+        "latitude": 43.06570435,
+        "longitude": 141.49450684,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2A:A3",
+        "latitude": 43.06669617,
+        "longitude": 141.49389648,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2A:B3",
+        "latitude": 43.0667038,
+        "longitude": 141.49395752,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:2B:43",
+        "latitude": 43.06619263,
+        "longitude": 141.49417114,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2B:53",
+        "latitude": 43.06583786,
+        "longitude": 141.4944458,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:2B:E3",
+        "latitude": 43.06660843,
+        "longitude": 141.49397278,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2B:F3",
+        "latitude": 43.06652451,
+        "longitude": 141.49385071,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:2D:E3",
+        "latitude": 43.06624603,
+        "longitude": 141.49423218,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:2D:F3",
+        "latitude": 43.0663681,
+        "longitude": 141.49423218,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2E:A3",
+        "latitude": 43.06679535,
+        "longitude": 141.49417114,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:2E:B3",
+        "latitude": 43.06686401,
+        "longitude": 141.49432373,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "A8:BD:27:59:2F:63",
+        "latitude": 43.06663132,
+        "longitude": 141.49487305,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:30:03",
+        "latitude": 43.0666275,
+        "longitude": 141.49394226,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:30:13",
+        "latitude": 43.06661987,
+        "longitude": 141.49380493,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-26T22:00:00",
+        "description": "A8:BD:27:59:30:63",
+        "latitude": 43.06653976,
+        "longitude": 141.49324036,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:30:73",
+        "latitude": 43.06634903,
+        "longitude": 141.49363708,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:31:C3",
+        "latitude": 43.06671524,
+        "longitude": 141.49394226,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:31:D3",
+        "latitude": 43.06653214,
+        "longitude": 141.49395752,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:32:C3",
+        "latitude": 43.06698608,
+        "longitude": 141.4949646,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:32:D3",
+        "latitude": 43.06635666,
+        "longitude": 141.4942627,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:33:83",
+        "latitude": 43.06652451,
+        "longitude": 141.49336243,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:33:93",
+        "latitude": 43.06659698,
+        "longitude": 141.49389648,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:33:A3",
+        "latitude": 43.06679153,
+        "longitude": 141.49395752,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:33:B3",
+        "latitude": 43.06676102,
+        "longitude": 141.49395752,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-26T22:00:00",
+        "description": "A8:BD:27:59:33:C3",
+        "latitude": 43.06656647,
+        "longitude": 141.49461365,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-26T22:00:00",
+        "description": "A8:BD:27:59:33:D3",
+        "latitude": 43.06594467,
+        "longitude": 141.4940033,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:34:23",
+        "latitude": 43.06586456,
+        "longitude": 141.49417114,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "A8:BD:27:59:34:33",
+        "latitude": 43.06620789,
+        "longitude": 141.49394226,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:34:C3",
+        "latitude": 43.06692123,
+        "longitude": 141.49450684,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:35:03",
+        "latitude": 43.06676865,
+        "longitude": 141.49455261,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:35:A3",
+        "latitude": 43.06655502,
+        "longitude": 141.49382019,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:35:B3",
+        "latitude": 43.06649399,
+        "longitude": 141.49330139,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:36:63",
+        "latitude": 43.0668602,
+        "longitude": 141.4942627,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:36:73",
+        "latitude": 43.06681061,
+        "longitude": 141.49407959,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-26T22:00:00",
+        "description": "A8:BD:27:59:36:93",
+        "latitude": 43.06666946,
+        "longitude": 141.49488831,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:37:23",
+        "latitude": 43.06653976,
+        "longitude": 141.49308777,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:37:63",
+        "latitude": 43.06653976,
+        "longitude": 141.49368286,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:37:73",
+        "latitude": 43.06672668,
+        "longitude": 141.49432373,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:38:03",
+        "latitude": 43.06625748,
+        "longitude": 141.49406433,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:38:13",
+        "latitude": 43.06667709,
+        "longitude": 141.4944458,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:38:43",
+        "latitude": 43.06678009,
+        "longitude": 141.49394226,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:38:53",
+        "latitude": 43.06681442,
+        "longitude": 141.49415588,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:38:83",
+        "latitude": 43.06691742,
+        "longitude": 141.49476624,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:38:93",
+        "latitude": 43.06623459,
+        "longitude": 141.49427795,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:39:13",
+        "latitude": 43.06655502,
+        "longitude": 141.49304199,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:39:A3",
+        "latitude": 43.06694031,
+        "longitude": 141.49450684,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:39:B3",
+        "latitude": 43.06705093,
+        "longitude": 141.49461365,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:3A:C3",
+        "latitude": 43.06644058,
+        "longitude": 141.49368286,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:3A:D3",
+        "latitude": 43.0664444,
+        "longitude": 141.49365234,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:59:3B:73",
+        "latitude": 43.06575775,
+        "longitude": 141.49420166,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:3B:F3",
+        "latitude": 43.06596756,
+        "longitude": 141.49473572,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:3C:B3",
+        "latitude": 43.06686783,
+        "longitude": 141.49462891,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:3E:C3",
+        "latitude": 43.06674194,
+        "longitude": 141.49388123,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:3E:D3",
+        "latitude": 43.06679916,
+        "longitude": 141.49398804,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:3E:E3",
+        "latitude": 43.06640625,
+        "longitude": 141.49357605,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:3E:F3",
+        "latitude": 43.06645584,
+        "longitude": 141.49349976,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:40:53",
+        "latitude": 43.06691742,
+        "longitude": 141.49476624,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-10T21:00:00",
+        "description": "A8:BD:27:59:41:E3",
+        "latitude": 43.06662369,
+        "longitude": 141.49415588,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:41:F3",
+        "latitude": 43.0666275,
+        "longitude": 141.49421692,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:42:23",
+        "latitude": 43.0667572,
+        "longitude": 141.493927,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:59:42:33",
+        "latitude": 43.06676865,
+        "longitude": 141.49395752,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:25:23",
+        "latitude": 43.06686401,
+        "longitude": 141.49441528,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:25:33",
+        "latitude": 43.06687164,
+        "longitude": 141.49432373,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:5C:2C:83",
+        "latitude": 43.06528473,
+        "longitude": 141.49430847,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:2C:93",
+        "latitude": 43.06537628,
+        "longitude": 141.49481201,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "A8:BD:27:5C:2E:C3",
+        "latitude": 43.06674957,
+        "longitude": 141.49423218,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:3D:A3",
+        "latitude": 43.06691742,
+        "longitude": 141.49476624,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:3D:B3",
+        "latitude": 43.06691742,
+        "longitude": 141.49476624,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:6E:43",
+        "latitude": 43.06684875,
+        "longitude": 141.49438477,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:6E:53",
+        "latitude": 43.06682968,
+        "longitude": 141.49435425,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:70:63",
+        "latitude": 43.0667305,
+        "longitude": 141.493927,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "A8:BD:27:5C:70:73",
+        "latitude": 43.06671143,
+        "longitude": 141.49388123,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "E8:26:89:59:65:E1",
+        "latitude": 43.06644821,
+        "longitude": 141.49429321,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:59:65:F1",
+        "latitude": 43.06663513,
+        "longitude": 141.49447632,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "E8:26:89:59:F3:01",
+        "latitude": 43.0656929,
+        "longitude": 141.49432373,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5A:74:61",
+        "latitude": 43.06689453,
+        "longitude": 141.49455261,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5A:74:71",
+        "latitude": 43.06689453,
+        "longitude": 141.49461365,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5A:85:51",
+        "latitude": 43.06695557,
+        "longitude": 141.49488831,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "E8:26:89:5A:92:C1",
+        "latitude": 43.06640625,
+        "longitude": 141.49424744,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-13T16:00:00",
+        "description": "E8:26:89:5A:92:D1",
+        "latitude": 43.06627655,
+        "longitude": 141.49421692,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5B:4C:21",
+        "latitude": 43.06689453,
+        "longitude": 141.49465942,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5B:4C:31",
+        "latitude": 43.0669136,
+        "longitude": 141.49456787,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5B:5D:31",
+        "latitude": 43.06679153,
+        "longitude": 141.49508667,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5B:80:E1",
+        "latitude": 43.06680679,
+        "longitude": 141.49449158,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5B:80:F2",
+        "latitude": 43.06676865,
+        "longitude": 141.49430847,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-02-24T00:00:00",
+        "description": "E8:26:89:5B:AA:41",
+        "latitude": 43.06671906,
+        "longitude": 141.49468994,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5B:EE:A1",
+        "latitude": 43.06691742,
+        "longitude": 141.49459839,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "cityroam",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-29T02:00:00",
+        "description": "E8:26:89:5C:17:21",
+        "latitude": 43.06689072,
+        "longitude": 141.49458313,
+        "url": "https://cityroam.jp/"
+    },
+    {
         "name": "TOKYO_FREE_Wi-Fi",
         "type": "0",
         "confirmedTime": "2024-04-06T13:00:00",
@@ -900,903 +3528,174 @@
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "48:2F:6B:3C:FC:40",
-        "latitude": 35.64391708,
-        "longitude": 139.78381348,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": NaN,
+        "confirmedTime": "2024-01-17T08:00:00",
+        "description": "00:00:6C:EE:B8:F9",
+        "latitude": 35.67233276,
+        "longitude": 139.76342773,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "48:2F:6B:3C:FC:50",
-        "latitude": 35.6437645,
-        "longitude": 139.78364563,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "48:2F:6B:3D:39:80",
-        "latitude": 35.64384842,
-        "longitude": 139.78387451,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "48:2F:6B:3D:39:90",
-        "latitude": 35.64373779,
-        "longitude": 139.78399658,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-02-17T04:00:00",
-        "description": "48:2F:6B:3D:AC:E1",
-        "latitude": 35.64361954,
-        "longitude": 139.78269958,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-02-17T04:00:00",
-        "description": "48:2F:6B:3D:AC:F1",
-        "latitude": 35.64360428,
-        "longitude": 139.78271484,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-05T00:00:00",
-        "description": "48:2F:6B:3D:B1:E3",
-        "latitude": 35.64331055,
-        "longitude": 139.78244019,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-02-17T04:00:00",
-        "description": "48:2F:6B:3D:B1:F3",
-        "latitude": 35.64343643,
-        "longitude": 139.78265381,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-02-17T04:00:00",
-        "description": "48:2F:6B:3E:49:A0",
-        "latitude": 35.64345551,
-        "longitude": 139.78265381,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-02-17T04:00:00",
-        "description": "48:2F:6B:3E:49:B0",
-        "latitude": 35.64343643,
-        "longitude": 139.78265381,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-04T04:00:00",
-        "description": "48:2F:6B:83:A0:01",
-        "latitude": 35.71453857,
-        "longitude": 139.77561951,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-04T04:00:00",
-        "description": "48:2F:6B:83:A0:11",
-        "latitude": 35.71463013,
-        "longitude": 139.77554321,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "48:2F:6B:83:A1:81",
-        "latitude": 35.682827,
-        "longitude": 139.70179749,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "48:2F:6B:83:A1:91",
-        "latitude": 35.6827774,
-        "longitude": 139.70188904,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "48:2F:6B:83:A4:C3",
-        "latitude": 35.68288803,
-        "longitude": 139.70193481,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
+        "name": "TOKYO_FREE_Wi-Fi",
         "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:83:A4:D3",
-        "latitude": 35.68299866,
-        "longitude": 139.70201111,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-04T04:00:00",
-        "description": "48:2F:6B:83:A5:21",
-        "latitude": 35.71436691,
-        "longitude": 139.77592468,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-04T04:00:00",
-        "description": "48:2F:6B:83:A5:31",
-        "latitude": 35.71447372,
-        "longitude": 139.77574158,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T09:00:00",
-        "description": "48:2F:6B:88:15:11",
-        "latitude": 35.67683411,
-        "longitude": 139.77832031,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-05-05T01:00:00",
-        "description": "48:2F:6B:88:3C:61",
-        "latitude": 35.66793442,
-        "longitude": 139.76820374,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-05-05T01:00:00",
-        "description": "48:2F:6B:88:3C:71",
-        "latitude": 35.66838837,
-        "longitude": 139.76696777,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-06T13:00:00",
-        "description": "48:2F:6B:8A:9F:E3",
-        "latitude": 35.72930527,
-        "longitude": 139.71374512,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-06T13:00:00",
-        "description": "48:2F:6B:8A:9F:F3",
-        "latitude": 35.72981262,
-        "longitude": 139.71473694,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-18T22:00:00",
-        "description": "48:2F:6B:8A:A0:20",
-        "latitude": 35.66863632,
-        "longitude": 139.77342224,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A0:30",
-        "latitude": 35.66822815,
-        "longitude": 139.77281189,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A1:C2",
-        "latitude": 35.66679001,
-        "longitude": 139.75720215,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A1:D2",
-        "latitude": 35.66661072,
-        "longitude": 139.75724792,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-24T22:00:00",
-        "description": "48:2F:6B:8A:A2:43",
-        "latitude": 35.68228149,
-        "longitude": 139.77972412,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-09T10:00:00",
-        "description": "48:2F:6B:8A:A2:53",
-        "latitude": 35.68166733,
-        "longitude": 139.78013611,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A2:A3",
-        "latitude": 35.66761398,
-        "longitude": 139.75856018,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A2:B3",
-        "latitude": 35.66769409,
-        "longitude": 139.75862122,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-04T03:00:00",
-        "description": "48:2F:6B:8A:A3:23",
-        "latitude": 35.6684227,
-        "longitude": 139.75497437,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A3:33",
-        "latitude": 35.6682663,
-        "longitude": 139.75497437,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T08:00:00",
-        "description": "48:2F:6B:8A:A4:22",
-        "latitude": 35.675457,
-        "longitude": 139.77168274,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T08:00:00",
-        "description": "48:2F:6B:8A:A4:32",
-        "latitude": 35.6756134,
-        "longitude": 139.77168274,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T08:00:00",
-        "description": "48:2F:6B:8A:A4:F1",
-        "latitude": 35.68354034,
-        "longitude": 139.772995,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-06T13:00:00",
-        "description": "48:2F:6B:8A:A5:42",
-        "latitude": 35.72874832,
-        "longitude": 139.7155304,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-06T13:00:00",
-        "description": "48:2F:6B:8A:A5:52",
-        "latitude": 35.7289238,
-        "longitude": 139.71488953,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-02-03T11:00:00",
-        "description": "48:2F:6B:8A:A6:E2",
-        "latitude": 35.7310791,
-        "longitude": 139.70954895,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-02-03T11:00:00",
-        "description": "48:2F:6B:8A:A6:F2",
-        "latitude": 35.7313652,
-        "longitude": 139.70977783,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-24T04:00:00",
-        "description": "48:2F:6B:8A:A7:81",
-        "latitude": 35.68519211,
-        "longitude": 139.77688599,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-04T19:00:00",
-        "description": "48:2F:6B:8A:A7:91",
-        "latitude": 35.68599701,
-        "longitude": 139.77690125,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A8:02",
-        "latitude": 35.66782379,
-        "longitude": 139.7570343,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:A8:12",
-        "latitude": 35.66757584,
-        "longitude": 139.75770569,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T08:00:00",
-        "description": "48:2F:6B:8A:A9:A0",
-        "latitude": 35.68868637,
-        "longitude": 139.77301025,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T08:00:00",
-        "description": "48:2F:6B:8A:A9:B0",
-        "latitude": 35.68870163,
-        "longitude": 139.77354431,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T08:00:00",
-        "description": "48:2F:6B:8A:A9:D0",
-        "latitude": 35.66380692,
-        "longitude": 139.75619507,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-08T23:00:00",
-        "description": "48:2F:6B:8A:AA:63",
-        "latitude": 35.66433716,
-        "longitude": 139.77294922,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:AA:73",
-        "latitude": 35.6651001,
-        "longitude": 139.77212524,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-04-21T02:00:00",
-        "description": "48:2F:6B:8A:AD:D1",
-        "latitude": 35.731987,
-        "longitude": 139.71096802,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-21T02:00:00",
-        "description": "48:2F:6B:8A:AE:22",
-        "latitude": 35.73296356,
-        "longitude": 139.7109375,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-21T02:00:00",
-        "description": "48:2F:6B:8A:AE:32",
-        "latitude": 35.73267365,
-        "longitude": 139.71017456,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-06T13:00:00",
-        "description": "48:2F:6B:8A:AE:D0",
-        "latitude": 35.73032379,
-        "longitude": 139.71533203,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-29T01:00:00",
-        "description": "48:2F:6B:8A:AF:02",
-        "latitude": 35.66092682,
-        "longitude": 139.73469543,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-08T18:00:00",
-        "description": "48:2F:6B:8A:AF:12",
-        "latitude": 35.66114426,
-        "longitude": 139.73471069,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-19T05:00:00",
-        "description": "48:2F:6B:8A:AF:20",
-        "latitude": 35.66882324,
-        "longitude": 139.77368164,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-05T01:00:00",
-        "description": "48:2F:6B:8A:AF:30",
-        "latitude": 35.66879654,
-        "longitude": 139.77352905,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-16T09:00:00",
-        "description": "48:2F:6B:8A:AF:43",
-        "latitude": 35.68982315,
-        "longitude": 139.76937866,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-02T23:00:00",
-        "description": "48:2F:6B:8A:AF:53",
-        "latitude": 35.69029617,
-        "longitude": 139.77006531,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-23T02:00:00",
-        "description": "48:2F:6B:8A:B0:60",
-        "latitude": 35.72872543,
-        "longitude": 139.71569824,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-06T13:00:00",
-        "description": "48:2F:6B:8A:B0:70",
-        "latitude": 35.72898102,
-        "longitude": 139.71472168,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-21T02:00:00",
-        "description": "48:2F:6B:8A:B0:A0",
-        "latitude": 35.73324203,
-        "longitude": 139.71182251,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-21T02:00:00",
-        "description": "48:2F:6B:8A:B0:B0",
-        "latitude": 35.73289108,
-        "longitude": 139.71133423,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-08T18:00:00",
-        "description": "48:2F:6B:8A:B1:C0",
-        "latitude": 35.68835831,
-        "longitude": 139.77252197,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T09:00:00",
-        "description": "48:2F:6B:8A:B1:D0",
-        "latitude": 35.68848419,
-        "longitude": 139.77285767,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-23T02:00:00",
-        "description": "48:2F:6B:8A:B3:61",
-        "latitude": 35.66558456,
-        "longitude": 139.75531006,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-04T03:00:00",
-        "description": "48:2F:6B:8A:B3:71",
-        "latitude": 35.66573715,
-        "longitude": 139.75540161,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-09T10:00:00",
-        "description": "48:2F:6B:8A:B4:83",
-        "latitude": 35.67681503,
-        "longitude": 139.77229309,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T09:00:00",
-        "description": "48:2F:6B:8A:B4:93",
-        "latitude": 35.67707443,
-        "longitude": 139.77224731,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-04T03:00:00",
-        "description": "48:2F:6B:8A:B7:22",
-        "latitude": 35.66692352,
-        "longitude": 139.75411987,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-04T03:00:00",
-        "description": "48:2F:6B:8A:B7:32",
-        "latitude": 35.66645432,
-        "longitude": 139.75402832,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-05T01:00:00",
-        "description": "48:2F:6B:8A:B7:41",
-        "latitude": 35.68248367,
-        "longitude": 139.77981567,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-09T10:00:00",
-        "description": "48:2F:6B:8A:B7:51",
-        "latitude": 35.68216324,
-        "longitude": 139.78121948,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-05T01:00:00",
-        "description": "48:2F:6B:8A:B9:80",
-        "latitude": 35.67089844,
-        "longitude": 139.76846313,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-05T01:00:00",
-        "description": "48:2F:6B:8A:B9:90",
-        "latitude": 35.67105484,
-        "longitude": 139.76852417,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T09:00:00",
-        "description": "48:2F:6B:8A:BA:E3",
-        "latitude": 35.66697311,
-        "longitude": 139.75979614,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:BA:F3",
-        "latitude": 35.66701889,
-        "longitude": 139.75973511,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-06T13:00:00",
-        "description": "48:2F:6B:8A:BC:C2",
-        "latitude": 35.72969818,
-        "longitude": 139.71325684,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-02T23:00:00",
-        "description": "48:2F:6B:8A:BC:D2",
-        "latitude": 35.72992706,
-        "longitude": 139.71334839,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-01T03:00:00",
-        "description": "48:2F:6B:8A:BF:20",
-        "latitude": 35.68331528,
-        "longitude": 139.77145386,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-09T10:00:00",
-        "description": "48:2F:6B:8A:BF:30",
-        "latitude": 35.6848259,
-        "longitude": 139.77046204,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T09:00:00",
-        "description": "48:2F:6B:8A:BF:43",
-        "latitude": 35.68959808,
-        "longitude": 139.77944946,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T09:00:00",
-        "description": "48:2F:6B:8A:BF:53",
-        "latitude": 35.68994141,
-        "longitude": 139.77920532,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-09T10:00:00",
-        "description": "48:2F:6B:8A:C0:03",
-        "latitude": 35.68057251,
-        "longitude": 139.78045654,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-27T10:00:00",
-        "description": "48:2F:6B:8A:C0:13",
-        "latitude": 35.67956161,
-        "longitude": 139.77975464,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:C0:62",
-        "latitude": 35.67098999,
-        "longitude": 139.76539612,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:C0:72",
-        "latitude": 35.67111969,
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4E:7E:B0",
+        "latitude": 35.67572403,
         "longitude": 139.76509094,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-08T23:00:00",
-        "description": "48:2F:6B:8A:C0:83",
-        "latitude": 35.66934967,
-        "longitude": 139.77212524,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4E:B8:A2",
+        "latitude": 35.67567825,
+        "longitude": 139.76509094,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-18T22:00:00",
-        "description": "48:2F:6B:8A:C0:93",
-        "latitude": 35.66903305,
-        "longitude": 139.77235413,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4E:B8:B2",
+        "latitude": 35.67573166,
+        "longitude": 139.7651062,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-08T16:00:00",
-        "description": "48:2F:6B:8A:C1:23",
-        "latitude": 35.67221069,
-        "longitude": 139.75286865,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4E:E6:C2",
+        "latitude": 35.67576218,
+        "longitude": 139.7651062,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:C1:33",
-        "latitude": 35.67220306,
-        "longitude": 139.75276184,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4E:E6:D2",
+        "latitude": 35.67568588,
+        "longitude": 139.76507568,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-24T22:00:00",
-        "description": "48:2F:6B:8A:C1:83",
-        "latitude": 35.67121887,
-        "longitude": 139.7726593,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4F:25:A2",
+        "latitude": 35.67571259,
+        "longitude": 139.7651062,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-24T22:00:00",
-        "description": "48:2F:6B:8A:C1:93",
-        "latitude": 35.67099762,
-        "longitude": 139.77307129,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4F:25:B2",
+        "latitude": 35.67572403,
+        "longitude": 139.76509094,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-24T22:00:00",
-        "description": "48:2F:6B:8A:C2:E2",
-        "latitude": 35.67471313,
-        "longitude": 139.77377319,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4F:56:42",
+        "latitude": 35.67572021,
+        "longitude": 139.76509094,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-28T09:00:00",
-        "description": "48:2F:6B:8A:C2:F2",
-        "latitude": 35.67469406,
-        "longitude": 139.77357483,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4F:56:52",
+        "latitude": 35.67569733,
+        "longitude": 139.76506042,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4F:7C:24",
+        "latitude": 35.67576599,
+        "longitude": 139.7651062,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:4F:7C:34",
+        "latitude": 35.67576218,
+        "longitude": 139.7651062,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:50:DF:02",
+        "latitude": 35.67576599,
+        "longitude": 139.7651062,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:50:DF:12",
+        "latitude": 35.67564392,
+        "longitude": 139.76507568,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:72:DC:04",
+        "latitude": 35.67576599,
+        "longitude": 139.76509094,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-03-14T03:00:00",
+        "description": "6C:C4:9F:72:DC:14",
+        "latitude": 35.67575073,
+        "longitude": 139.7651062,
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
         "confirmedTime": "2024-04-08T18:00:00",
-        "description": "48:2F:6B:8A:C4:A0",
-        "latitude": 35.68749237,
-        "longitude": 139.7699585,
+        "description": "6C:C4:9F:7B:C6:60",
+        "latitude": 35.68324661,
+        "longitude": 139.7651825,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-04-24T00:00:00",
-        "description": "48:2F:6B:8A:C4:B0",
-        "latitude": 35.68690872,
-        "longitude": 139.76934814,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-04-28T06:00:00",
+        "description": "6C:C4:9F:7B:C6:70",
+        "latitude": 35.68164444,
+        "longitude": 139.76548767,
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-06T02:00:00",
-        "description": "48:2F:6B:8A:C5:A0",
-        "latitude": 35.67152023,
-        "longitude": 139.76637268,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-05-05T01:00:00",
-        "description": "48:2F:6B:8A:C5:B0",
-        "latitude": 35.67152023,
-        "longitude": 139.76608276,
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "0",
-        "confirmedTime": "2024-03-24T04:00:00",
-        "description": "48:2F:6B:8A:C6:82",
-        "latitude": 35.69065857,
-        "longitude": 139.77236938,
+        "name": "TOKYO_FREE_Wi-Fi",
+        "type": "5a03ba0000 4096",
+        "confirmedTime": "2024-04-27T10:00:00",
+        "description": "6C:C4:9F:7B:C7:51",
+        "latitude": 35.67373657,
+        "longitude": 139.77598572,
         "url": "https://cityroam.jp/"
     }
 ]
