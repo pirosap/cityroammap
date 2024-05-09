@@ -42,6 +42,9 @@ class KumapPage extends ConsumerWidget {
     };
 
     return Scaffold(
+      appBar: AppBar(
+        title: Text('This map is under development. No guarantee is made as to the content.'), // バナーに表示するテキスト
+      ),
       body: FlutterMap(
         options: const MapOptions(
           initialCenter: SGUMarker.pos,
@@ -74,6 +77,18 @@ class KumapPage extends ConsumerWidget {
                     'https://maps.gsi.go.jp/development/ichiran.html'),
               ),
             ],
+          ),
+          Positioned(
+            top: 20, // 上からの位置
+            right: 20, // 右からの位置
+            child: Container(
+              width: 120, // 幅
+              height: 80, // 高さ
+              color: Colors.white, // 背景色
+              child: Center(
+                child: Text('Radius of circle is 25m.'), // 画像の凡例
+              ),
+            ),
           ),
         ],
       ),
