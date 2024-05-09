@@ -11,6 +11,8 @@ class Kuma with _$Kuma {
     required String description,
     required String url,
     required String type,
+    required String channel,
+    required int QoS,
     required double longitude,
     required double latitude,
     required String confirmedTime,

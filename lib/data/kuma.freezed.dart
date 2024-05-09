@@ -12,7 +12,7 @@ part of 'kuma.dart';
 T _$identity<T>(T value) => value;
 
 final _privateConstructorUsedError = UnsupportedError(
-    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#custom-getters-and-methods');
+    'It seems like you constructed your class using `MyClass._()`. This constructor is only meant to be used by freezed and you are not supposed to need it nor use it.\nPlease check the documentation here for more information: https://github.com/rrousselGit/freezed#adding-getters-and-methods-to-our-models');
 
 Kuma _$KumaFromJson(Map<String, dynamic> json) {
   return _Kuma.fromJson(json);
@@ -24,6 +24,8 @@ mixin _$Kuma {
   String get description => throw _privateConstructorUsedError;
   String get url => throw _privateConstructorUsedError;
   String get type => throw _privateConstructorUsedError;
+  String get channel => throw _privateConstructorUsedError;
+  int get QoS => throw _privateConstructorUsedError;
   double get longitude => throw _privateConstructorUsedError;
   double get latitude => throw _privateConstructorUsedError;
   String get confirmedTime => throw _privateConstructorUsedError;
@@ -43,6 +45,8 @@ abstract class $KumaCopyWith<$Res> {
       String description,
       String url,
       String type,
+      String channel,
+      int QoS,
       double longitude,
       double latitude,
       String confirmedTime});
@@ -65,6 +69,8 @@ class _$KumaCopyWithImpl<$Res, $Val extends Kuma>
     Object? description = null,
     Object? url = null,
     Object? type = null,
+    Object? channel = null,
+    Object? QoS = null,
     Object? longitude = null,
     Object? latitude = null,
     Object? confirmedTime = null,
@@ -86,6 +92,14 @@ class _$KumaCopyWithImpl<$Res, $Val extends Kuma>
           ? _value.type
           : type // ignore: cast_nullable_to_non_nullable
               as String,
+      channel: null == channel
+          ? _value.channel
+          : channel // ignore: cast_nullable_to_non_nullable
+              as String,
+      QoS: null == QoS
+          ? _value.QoS
+          : QoS // ignore: cast_nullable_to_non_nullable
+              as int,
       longitude: null == longitude
           ? _value.longitude
           : longitude // ignore: cast_nullable_to_non_nullable
@@ -114,6 +128,8 @@ abstract class _$$KumaImplCopyWith<$Res> implements $KumaCopyWith<$Res> {
       String description,
       String url,
       String type,
+      String channel,
+      int QoS,
       double longitude,
       double latitude,
       String confirmedTime});
@@ -133,6 +149,8 @@ class __$$KumaImplCopyWithImpl<$Res>
     Object? description = null,
     Object? url = null,
     Object? type = null,
+    Object? channel = null,
+    Object? QoS = null,
     Object? longitude = null,
     Object? latitude = null,
     Object? confirmedTime = null,
@@ -154,6 +172,14 @@ class __$$KumaImplCopyWithImpl<$Res>
           ? _value.type
           : type // ignore: cast_nullable_to_non_nullable
               as String,
+      channel: null == channel
+          ? _value.channel
+          : channel // ignore: cast_nullable_to_non_nullable
+              as String,
+      QoS: null == QoS
+          ? _value.QoS
+          : QoS // ignore: cast_nullable_to_non_nullable
+              as int,
       longitude: null == longitude
           ? _value.longitude
           : longitude // ignore: cast_nullable_to_non_nullable
@@ -178,6 +204,8 @@ class _$KumaImpl implements _Kuma {
       required this.description,
       required this.url,
       required this.type,
+      required this.channel,
+      required this.QoS,
       required this.longitude,
       required this.latitude,
       required this.confirmedTime});
@@ -194,6 +222,10 @@ class _$KumaImpl implements _Kuma {
   @override
   final String type;
   @override
+  final String channel;
+  @override
+  final int QoS;
+  @override
   final double longitude;
   @override
   final double latitude;
@@ -202,11 +234,11 @@ class _$KumaImpl implements _Kuma {
 
   @override
   String toString() {
-    return 'Kuma(name: $name, description: $description, url: $url, type: $type, longitude: $longitude, latitude: $latitude, confirmedTime: $confirmedTime)';
+    return 'Kuma(name: $name, description: $description, url: $url, type: $type, channel: $channel, QoS: $QoS, longitude: $longitude, latitude: $latitude, confirmedTime: $confirmedTime)';
   }
 
   @override
-  bool operator ==(dynamic other) {
+  bool operator ==(Object other) {
     return identical(this, other) ||
         (other.runtimeType == runtimeType &&
             other is _$KumaImpl &&
@@ -215,6 +247,8 @@ class _$KumaImpl implements _Kuma {
                 other.description == description) &&
             (identical(other.url, url) || other.url == url) &&
             (identical(other.type, type) || other.type == type) &&
+            (identical(other.channel, channel) || other.channel == channel) &&
+            (identical(other.QoS, QoS) || other.QoS == QoS) &&
             (identical(other.longitude, longitude) ||
                 other.longitude == longitude) &&
             (identical(other.latitude, latitude) ||
@@ -226,7 +260,7 @@ class _$KumaImpl implements _Kuma {
   @JsonKey(ignore: true)
   @override
   int get hashCode => Object.hash(runtimeType, name, description, url, type,
-      longitude, latitude, confirmedTime);
+      channel, QoS, longitude, latitude, confirmedTime);
 
   @JsonKey(ignore: true)
   @override
@@ -248,6 +282,8 @@ abstract class _Kuma implements Kuma {
       required final String description,
       required final String url,
       required final String type,
+      required final String channel,
+      required final int QoS,
       required final double longitude,
       required final double latitude,
       required final String confirmedTime}) = _$KumaImpl;
@@ -262,6 +298,10 @@ abstract class _Kuma implements Kuma {
   String get url;
   @override
   String get type;
+  @override
+  String get channel;
+  @override
+  int get QoS;
   @override
   double get longitude;
   @override

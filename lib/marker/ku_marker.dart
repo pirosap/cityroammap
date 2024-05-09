@@ -24,7 +24,7 @@ class KuCircleMarker extends CircleMarker {
           point: LatLng(kuma.latitude, kuma.longitude),
           radius: 25,
           useRadiusInMeter: true,
-          color: kuma.type == '0' ? Colors.teal.withOpacity(0.1) : Colors.red.withOpacity(0.1),
+          color: kuma.type == '0' ? Colors.teal.withOpacity(0.1 + (kuma.QoS / 10.0) * 0.7) : Colors.red.withOpacity(0.1 + (kuma.QoS / 10.0) * 0.7),
           borderColor: kuma.type == '0' ? Colors.teal : Colors.red,
         );
 
@@ -73,6 +73,8 @@ class KuMarkerPopup extends HookWidget {
                     ),
                     Text(kuma.description),
                     Text('RCOIs：${kuma.type}'),
+                    Text('Channel：${kuma.channel}'),
+                    Text('QoS：${kuma.QoS}'),
                     Text('確認日時：${kuma.confirmedTimeStr}'),
                     Text('(${kuma.latitude},${kuma.longitude})'),
                   ],
