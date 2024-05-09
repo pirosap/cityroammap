@@ -45,7 +45,7 @@ class KumapPage extends ConsumerWidget {
       body: FlutterMap(
         options: const MapOptions(
           initialCenter: SGUMarker.pos,
-          initialZoom: 10,
+          initialZoom: 6,
           minZoom: 4,
           maxZoom: 18,
         ),

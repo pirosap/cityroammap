@@ -22,7 +22,7 @@ class KuCircleMarker extends CircleMarker {
   KuCircleMarker(this.kuma)
       : super(
           point: LatLng(kuma.latitude, kuma.longitude),
-          radius: 100,
+          radius: 25,
           useRadiusInMeter: true,
           color: Colors.red.withOpacity(0.1),
           borderColor: Colors.red,
