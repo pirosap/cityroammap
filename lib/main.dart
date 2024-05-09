@@ -42,9 +42,6 @@ class KumapPage extends ConsumerWidget {
     };
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text('This map is under development. No guarantee is made as to the content.'), // バナーに表示するテキスト
-      ),
       body: FlutterMap(
         options: const MapOptions(
           initialCenter: SGUMarker.pos,
