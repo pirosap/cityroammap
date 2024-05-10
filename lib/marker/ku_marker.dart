@@ -76,6 +76,7 @@ class KuMarkerPopup extends HookWidget {
                     Text('Channel：${kuma.channel}'),
                     Text('QoS：${kuma.QoS}'),
                     Text('確認日時：${kuma.confirmedTimeStr}'),
+                    Text('Vendor：${kuma.vendor}'),
                     Text('(${kuma.latitude},${kuma.longitude})'),
                   ],
                 ),
