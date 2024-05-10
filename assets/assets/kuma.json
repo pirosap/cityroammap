@@ -1476,30 +1476,6 @@
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "0",
-        "type": "4096",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "F0:5C:19:44:2B:E0",
-        "channel": "1",
-        "QoS": 0,
-        "latitude": 35.69509125,
-        "longitude": 139.700943,
-        "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "0",
-        "type": "4096",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "F0:5C:19:44:2B:F0",
-        "channel": "36",
-        "QoS": 0,
-        "latitude": 35.69509888,
-        "longitude": 139.7008972,
-        "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
         "name": "TOKYO_FREE_Wi-Fi",
         "type": "5a03ba0000 4096",
         "confirmedTime": "2024-04-08T16:00:00",
@@ -2817,30 +2793,6 @@
         "latitude": 35.00709534,
         "longitude": 135.7649078,
         "vendor": "Prefix is not registered",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "00000JAPAN",
-        "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-03-04T21:00:00",
-        "description": "F8:8E:A1:15:62:CA",
-        "channel": "6",
-        "QoS": 5,
-        "latitude": 35.00708008,
-        "longitude": 135.7648926,
-        "vendor": "Edgecore Networks Corporation",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "00000JAPAN",
-        "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-03-04T21:00:00",
-        "description": "F8:8E:A1:15:62:CB",
-        "channel": "116",
-        "QoS": 5,
-        "latitude": 35.00708389,
-        "longitude": 135.7648926,
-        "vendor": "Edgecore Networks Corporation",
         "url": "https://cityroam.jp/"
     },
     {
@@ -4692,18 +4644,6 @@
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "eduroam",
-        "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-04-04T04:00:00",
-        "description": "48:2F:6B:83:A0:13",
-        "channel": "104",
-        "QoS": 6,
-        "latitude": 35.71461105,
-        "longitude": 139.7755737,
-        "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
         "name": "TOKYO_FREE_Wi-Fi",
         "type": "5a03ba0000 4096",
         "confirmedTime": "2024-04-04T04:00:00",
@@ -5217,54 +5157,6 @@
         "latitude": 35.69160461,
         "longitude": 139.774292,
         "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "eduroam",
-        "type": "1bc50460",
-        "confirmedTime": "2024-03-17T04:00:00",
-        "description": "00:A7:42:C0:20:E3",
-        "channel": "11",
-        "QoS": 0,
-        "latitude": 35.69773102,
-        "longitude": 139.7796326,
-        "vendor": "Cisco Systems, Inc",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "eduroam",
-        "type": "1bc50460",
-        "confirmedTime": "2024-03-17T04:00:00",
-        "description": "00:A7:42:C0:20:EC",
-        "channel": "60",
-        "QoS": 0,
-        "latitude": 35.69776154,
-        "longitude": 139.7795715,
-        "vendor": "Cisco Systems, Inc",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "eduroam",
-        "type": "1bc50460",
-        "confirmedTime": "2024-03-17T04:00:00",
-        "description": "00:BE:75:80:B5:23",
-        "channel": "6",
-        "QoS": 0,
-        "latitude": 35.6977272,
-        "longitude": 139.7796173,
-        "vendor": "Cisco Systems, Inc",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "eduroam",
-        "type": "1bc50460",
-        "confirmedTime": "2024-03-31T05:00:00",
-        "description": "00:BE:75:80:B5:2C",
-        "channel": "100",
-        "QoS": 4,
-        "latitude": 35.69774628,
-        "longitude": 139.7798767,
-        "vendor": "Cisco Systems, Inc",
         "url": "https://cityroam.jp/"
     },
     {
@@ -15984,18 +15876,6 @@
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "eduroam",
-        "type": "1bc50460",
-        "confirmedTime": "2024-03-17T04:00:00",
-        "description": "00:A7:42:C7:5D:8C",
-        "channel": "128",
-        "QoS": 0,
-        "latitude": 35.6977005,
-        "longitude": 139.7804108,
-        "vendor": "Cisco Systems, Inc",
-        "url": "https://cityroam.jp/"
-    },
-    {
         "name": "cityroam",
         "type": "5a03ba0000 4096",
         "confirmedTime": "2024-03-17T04:00:00",
@@ -19832,18 +19712,6 @@
         "QoS": 0,
         "latitude": 35.66921616,
         "longitude": 139.7686768,
-        "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "eduroam",
-        "type": "5a03ba0000 4096",
-        "confirmedTime": "2024-05-05T01:00:00",
-        "description": "48:2F:6B:8A:D3:11",
-        "channel": "112",
-        "QoS": 7,
-        "latitude": 35.66940689,
-        "longitude": 139.7684326,
         "vendor": "Hewlett Packard Enterprise",
         "url": "https://cityroam.jp/"
     },
