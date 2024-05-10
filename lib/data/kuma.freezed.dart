@@ -29,6 +29,7 @@ mixin _$Kuma {
   double get longitude => throw _privateConstructorUsedError;
   double get latitude => throw _privateConstructorUsedError;
   String get confirmedTime => throw _privateConstructorUsedError;
+  String get vendor => throw _privateConstructorUsedError;
 
   Map<String, dynamic> toJson() => throw _privateConstructorUsedError;
   @JsonKey(ignore: true)
@@ -49,7 +50,8 @@ abstract class $KumaCopyWith<$Res> {
       int QoS,
       double longitude,
       double latitude,
-      String confirmedTime});
+      String confirmedTime,
+      String vendor});
 }
 
 /// @nodoc
@@ -74,6 +76,7 @@ class _$KumaCopyWithImpl<$Res, $Val extends Kuma>
     Object? longitude = null,
     Object? latitude = null,
     Object? confirmedTime = null,
+    Object? vendor = null,
   }) {
     return _then(_value.copyWith(
       name: null == name
@@ -112,6 +115,10 @@ class _$KumaCopyWithImpl<$Res, $Val extends Kuma>
           ? _value.confirmedTime
           : confirmedTime // ignore: cast_nullable_to_non_nullable
               as String,
+      vendor: null == vendor
+          ? _value.vendor
+          : vendor // ignore: cast_nullable_to_non_nullable
+              as String,
     ) as $Val);
   }
 }
@@ -132,7 +139,8 @@ abstract class _$$KumaImplCopyWith<$Res> implements $KumaCopyWith<$Res> {
       int QoS,
       double longitude,
       double latitude,
-      String confirmedTime});
+      String confirmedTime,
+      String vendor});
 }
 
 /// @nodoc
@@ -154,6 +162,7 @@ class __$$KumaImplCopyWithImpl<$Res>
     Object? longitude = null,
     Object? latitude = null,
     Object? confirmedTime = null,
+    Object? vendor = null,
   }) {
     return _then(_$KumaImpl(
       name: null == name
@@ -192,6 +201,10 @@ class __$$KumaImplCopyWithImpl<$Res>
           ? _value.confirmedTime
           : confirmedTime // ignore: cast_nullable_to_non_nullable
               as String,
+      vendor: null == vendor
+          ? _value.vendor
+          : vendor // ignore: cast_nullable_to_non_nullable
+              as String,
     ));
   }
 }
@@ -208,7 +221,8 @@ class _$KumaImpl implements _Kuma {
       required this.QoS,
       required this.longitude,
       required this.latitude,
-      required this.confirmedTime});
+      required this.confirmedTime,
+      required this.vendor});
 
   factory _$KumaImpl.fromJson(Map<String, dynamic> json) =>
       _$$KumaImplFromJson(json);
@@ -231,10 +245,12 @@ class _$KumaImpl implements _Kuma {
   final double latitude;
   @override
   final String confirmedTime;
+  @override
+  final String vendor;
 
   @override
   String toString() {
-    return 'Kuma(name: $name, description: $description, url: $url, type: $type, channel: $channel, QoS: $QoS, longitude: $longitude, latitude: $latitude, confirmedTime: $confirmedTime)';
+    return 'Kuma(name: $name, description: $description, url: $url, type: $type, channel: $channel, QoS: $QoS, longitude: $longitude, latitude: $latitude, confirmedTime: $confirmedTime, vendor: $vendor)';
   }
 
   @override
@@ -254,13 +270,14 @@ class _$KumaImpl implements _Kuma {
             (identical(other.latitude, latitude) ||
                 other.latitude == latitude) &&
             (identical(other.confirmedTime, confirmedTime) ||
-                other.confirmedTime == confirmedTime));
+                other.confirmedTime == confirmedTime) &&
+            (identical(other.vendor, vendor) || other.vendor == vendor));
   }
 
   @JsonKey(ignore: true)
   @override
   int get hashCode => Object.hash(runtimeType, name, description, url, type,
-      channel, QoS, longitude, latitude, confirmedTime);
+      channel, QoS, longitude, latitude, confirmedTime, vendor);
 
   @JsonKey(ignore: true)
   @override
@@ -286,7 +303,8 @@ abstract class _Kuma implements Kuma {
       required final int QoS,
       required final double longitude,
       required final double latitude,
-      required final String confirmedTime}) = _$KumaImpl;
+      required final String confirmedTime,
+      required final String vendor}) = _$KumaImpl;
 
   factory _Kuma.fromJson(Map<String, dynamic> json) = _$KumaImpl.fromJson;
 
@@ -308,6 +326,8 @@ abstract class _Kuma implements Kuma {
   double get latitude;
   @override
   String get confirmedTime;
+  @override
+  String get vendor;
   @override
   @JsonKey(ignore: true)
   _$$KumaImplCopyWith<_$KumaImpl> get copyWith =>

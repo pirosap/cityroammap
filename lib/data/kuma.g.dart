@@ -16,6 +16,7 @@ _$KumaImpl _$$KumaImplFromJson(Map<String, dynamic> json) => _$KumaImpl(
       longitude: (json['longitude'] as num).toDouble(),
       latitude: (json['latitude'] as num).toDouble(),
       confirmedTime: json['confirmedTime'] as String,
+      vendor: json['vendor'] as String,
     );
 
 Map<String, dynamic> _$$KumaImplToJson(_$KumaImpl instance) =>
@@ -29,4 +30,5 @@ Map<String, dynamic> _$$KumaImplToJson(_$KumaImpl instance) =>
       'longitude': instance.longitude,
       'latitude': instance.latitude,
       'confirmedTime': instance.confirmedTime,
+      'vendor': instance.vendor,
     };

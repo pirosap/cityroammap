@@ -16,6 +16,7 @@ class Kuma with _$Kuma {
     required double longitude,
     required double latitude,
     required String confirmedTime,
+    required String vendor,
   }) = _Kuma;
 
   factory Kuma.fromJson(Map<String, Object?> json) => _$KumaFromJson(json);
