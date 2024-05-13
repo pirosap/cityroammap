@@ -20340,30 +20340,6 @@
         "url": "https://cityroam.jp/"
     },
     {
-        "name": ".0",
-        "type": "4096",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "F0:5C:19:44:2B:E0",
-        "channel": "1",
-        "QoS": 0,
-        "latitude": 35.69509125,
-        "longitude": 139.70094299,
-        "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": ".0",
-        "type": "4096",
-        "confirmedTime": "2024-04-01T19:00:00",
-        "description": "F0:5C:19:44:2B:F0",
-        "channel": "36",
-        "QoS": 0,
-        "latitude": 35.69509888,
-        "longitude": 139.70089722,
-        "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
         "name": "KYOTO_Wi-Fi_OpenRoaming",
         "type": "5a03ba0000 4096",
         "confirmedTime": "2024-03-30T00:00:00",
