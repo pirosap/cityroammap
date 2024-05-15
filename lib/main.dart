@@ -7,6 +7,7 @@ import 'package:cityroammap/marker/sgu_marker.dart';
 import 'package:cityroammap/marker/ku_marker.dart';
 import 'package:cityroammap/provider/kuma_list_provider.dart';
 import 'package:url_launcher/url_launcher_string.dart';
+import 'package:latlong2/latlong.dart';
 
 void main() {
   runApp(const ProviderScope(child: MyApp()));
@@ -44,9 +45,9 @@ class KumapPage extends ConsumerWidget {
     return Scaffold(
       body: FlutterMap(
         options: const MapOptions(
-          initialCenter: SGUMarker.pos,
-          initialZoom: 0,
-          minZoom: 4,
+          initialCenter: LatLng(30.0, 0.0),
+          initialZoom: 3,
+          minZoom: 3,
           maxZoom: 18,
         ),
         children: [
