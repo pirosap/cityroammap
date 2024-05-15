@@ -360,18 +360,6 @@
         "url": "https://cityroam.jp/"
     },
     {
-        "name": "#TeatroGazeta OpenRoaming",
-        "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-04-25T21:00:00",
-        "description": "B4:A2:5C:B4:2D:BD",
-        "channel": "157",
-        "QoS": "2",
-        "latitude": "-23.56510544",
-        "longitude": "-46.65196991",
-        "vendor": "Cambium Networks Limited",
-        "url": "https://cityroam.jp/"
-    },
-    {
         "name": "Cellular Wi-Fi Passthrough",
         "type": "4096 5a03ba0000",
         "confirmedTime": "2024-03-03T14:00:00",
