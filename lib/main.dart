@@ -52,7 +52,7 @@ class KumapPage extends ConsumerWidget {
         children: [
           TileLayer(
             urlTemplate:
-                'https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png',
+                'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
           ),
           MarkerLayer(
             markers: [
@@ -69,9 +69,9 @@ class KumapPage extends ConsumerWidget {
           RichAttributionWidget(
             attributions: [
               TextSourceAttribution(
-                '国土地理院',
+                'OpenStreetMap',
                 onTap: () => launchUrlString(
-                    'https://maps.gsi.go.jp/development/ichiran.html'),
+                    'https://www.openstreetmap.org/copyright'),
               ),
             ],
           ),
