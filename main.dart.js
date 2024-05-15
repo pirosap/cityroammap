@@ -36278,7 +36278,7 @@ A.cR(3,"retries")
 p=t.N
 q=new A.Uk(q,A.y(p,p))
 p=$.aiq()
-q=new A.vf("https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png",q,p,m)
+q=new A.vf("https://tile.openstreetmap.org/{z}/{x}/{y}.png",q,p,m)
 q.dx=B.EL
 q.x=1/0
 q.z=!1?18:19
@@ -36291,9 +36291,9 @@ o=J.bP(r)
 B.b.G(p,o.dU(r,A.au6(),t.xM))
 n=A.a([new A.DP(B.by,200,A.a5(B.d.aW(25.5),76,175,80),1,B.D3,!0)],t.AZ)
 B.b.G(n,o.dU(r,A.au5(),t.q2))
-return new A.ux(new A.rk(A.a([q,new A.BG(p,m),new A.zh(n,m),new A.us(A.a([new A.oq("\u56fd\u571f\u5730\u7406\u9662",B.ux,!0,new A.Tf(),m)],t.X1),m)],t.E),B.w8,m),m)}}
+return new A.ux(new A.rk(A.a([q,new A.BG(p,m),new A.zh(n,m),new A.us(A.a([new A.oq("OpenStreetMap",B.ux,!0,new A.Tf(),m)],t.X1),m)],t.E),B.w8,m),m)}}
 A.Tf.prototype={
-$0(){return A.a79("https://maps.gsi.go.jp/development/ichiran.html")},
+$0(){return A.a79("https://www.openstreetmap.org/copyright")},
 $S:0}
 A.nz.prototype={}
 A.ny.prototype={}
