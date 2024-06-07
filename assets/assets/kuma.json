@@ -18255,18 +18255,6 @@
         "name": "cityroam",
         "type": "4096 5a03ba0000",
         "confirmedTime": "2024-03-29T02:00:00",
-        "description": "A8:BD:27:59:34:D3",
-        "channel": "36",
-        "QoS": 0,
-        "latitude": 43.06237793,
-        "longitude": 141.42707825,
-        "vendor": "Hewlett Packard Enterprise",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "cityroam",
-        "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-03-29T02:00:00",
         "description": "A8:BD:27:59:35:03",
         "channel": "6",
         "QoS": 5,
