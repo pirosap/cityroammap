@@ -36279,7 +36279,7 @@ A.cR(3,"retries")
 p=t.N
 q=new A.Ul(q,A.y(p,p))
 p=$.air()
-q=new A.vf("https://tile.openstreetmap.org/{z}/{x}/{y}.png",q,p,m)
+q=new A.vf("http://www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png",q,p,m)
 q.dx=B.EM
 q.x=1/0
 q.z=!1?18:19
