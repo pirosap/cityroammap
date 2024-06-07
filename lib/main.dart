@@ -53,7 +53,7 @@ class KumapPage extends ConsumerWidget {
         children: [
           TileLayer(
             urlTemplate:
-                'https://tile.openstreetmap.org/{z}/{x}/{y}.png',
+                'http://www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png',
           ),
           MarkerLayer(
             markers: [
