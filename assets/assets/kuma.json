@@ -86438,12 +86438,12 @@
     {
         "name": "Adentro OpenRoaming",
         "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-04-24T12:00:00",
+        "confirmedTime": "2024-06-19T06:00:00",
         "description": "02:8D:CB:94:B1:01",
         "channel": "44",
         "QoS": 2,
-        "latitude": 39.22495651,
-        "longitude": -76.66590881,
+        "latitude": 39.22494507,
+        "longitude": -76.66593933,
         "vendor": "Prefix is not registered",
         "url": "https://cityroam.jp/"
     },
@@ -86498,11 +86498,11 @@
     {
         "name": "Adentro OpenRoaming",
         "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-04-24T12:00:00",
+        "confirmedTime": "2024-06-19T06:00:00",
         "description": "02:8D:DB:94:B1:01",
         "channel": "11",
         "QoS": 2,
-        "latitude": 39.22491837,
+        "latitude": 39.22492218,
         "longitude": -76.6661377,
         "vendor": "Prefix is not registered",
         "url": "https://cityroam.jp/"
