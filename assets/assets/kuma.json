@@ -91462,5 +91462,41 @@
         "longitude": -74.65579987,
         "vendor": "Prefix is not registered",
         "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-04T15:00:00",
+        "description": "A6:46:8D:28:C0:32",
+        "channel": "44",
+        "QoS": 2,
+        "latitude": 39.35341263,
+        "longitude": -74.44499969,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-04T15:00:00",
+        "description": "A6:46:8D:28:C0:39",
+        "channel": "64",
+        "QoS": 4,
+        "latitude": 39.35346222,
+        "longitude": -74.44475555,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-03-04T14:00:00",
+        "description": "A6:46:9D:28:C0:39",
+        "channel": "11",
+        "QoS": 4,
+        "latitude": 39.35335922,
+        "longitude": -74.44504547,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
     }
 ]
