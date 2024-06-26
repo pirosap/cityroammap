@@ -27,15 +27,15 @@ const RESOURCES = {"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/assets/sgu.png": "60729de2ded1c60b5f785a0c8d25b13f",
 "assets/assets/kuma.png": "6a9d35fb726f5c675630f22a94d9b4f5",
 "assets/assets/jigjp.png": "a8710d1f1712a39986bc750db0786498",
-"assets/assets/kuma.json": "1e0332d5864699aa97be4ceb8323f6c6",
+"assets/assets/kuma.json": "d950100de12a0d85ef934ec678d99e3c",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "assets/packages/flutter_map/lib/assets/flutter_map_logo.png": "208d63cc917af9713fc9572bd5c09362",
 "assets/AssetManifest.bin.json": "fc1375b330ac191a703ef2d405809d81",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "69de4aeea24e072825d967eb483d4ffd",
 "assets/AssetManifest.json": "d044bb4bf9d956d3eca668e0afc2a9ef",
-"index.html": "560f1b2a80b8752ee4f92e1f2c21e5d3",
-"/": "560f1b2a80b8752ee4f92e1f2c21e5d3",
+"index.html": "193cccf0c05fe0430dbcba8ad7c60be6",
+"/": "193cccf0c05fe0430dbcba8ad7c60be6",
 "manifest.json": "9e617583957a6a378975c2755a56d725"};
 // The application shell files that are downloaded before a service worker can
 // start.
