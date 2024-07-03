@@ -91678,5 +91678,17 @@
         "longitude": -74.21936035,
         "vendor": "Prefix is not registered",
         "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Hawkins_NL",
+        "type": 4096,
+        "confirmedTime": "2024-06-12T17:00:00",
+        "description": "E2:CB:AC:89:ED:56",
+        "channel": "104",
+        "QoS": 0,
+        "latitude": 40.82017517,
+        "longitude": -74.10393524,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
     }
 ]
