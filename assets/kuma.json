@@ -91690,53 +91690,5 @@
         "longitude": -74.10393524,
         "vendor": "Prefix is not registered",
         "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "Adentro OpenRoaming",
-        "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-03-24T22:00:00",
-        "description": "02:8D:CB:84:4A:CA",
-        "channel": "153",
-        "QoS": 5,
-        "latitude": 40.73531723,
-        "longitude": -74.06355286,
-        "vendor": "Prefix is not registered",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "Adentro OpenRoaming",
-        "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-03-24T22:00:00",
-        "description": "02:8D:DB:84:4A:CA",
-        "channel": "11",
-        "QoS": 0,
-        "latitude": 40.73540878,
-        "longitude": -74.06377411,
-        "vendor": "Prefix is not registered",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "Adentro OpenRoaming",
-        "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-02-27T11:00:00",
-        "description": "1E:8D:CB:17:EC:8D",
-        "channel": "153",
-        "QoS": 7,
-        "latitude": 40.73300934,
-        "longitude": -74.06271362,
-        "vendor": "Prefix is not registered",
-        "url": "https://cityroam.jp/"
-    },
-    {
-        "name": "Adentro OpenRoaming",
-        "type": "4096 5a03ba0000",
-        "confirmedTime": "2024-03-12T21:00:00",
-        "description": "1E:8D:DB:17:EC:8D",
-        "channel": "11",
-        "QoS": 6,
-        "latitude": 40.73288727,
-        "longitude": -74.0625,
-        "vendor": "Prefix is not registered",
-        "url": "https://cityroam.jp/"
     }
 ]
