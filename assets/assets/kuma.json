@@ -95206,5 +95206,17 @@
         "longitude": -73.95957184,
         "vendor": "Prefix is not registered",
         "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-04-15T11:00:00",
+        "description": "02:8D:CB:66:5A:FC",
+        "channel": "48",
+        "QoS": 2,
+        "latitude": 40.77459335,
+        "longitude": -73.90862274,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
     }
 ]
