@@ -95326,5 +95326,65 @@
         "longitude": -73.76198578,
         "vendor": "Prefix is not registered",
         "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-07-02T17:00:00",
+        "description": "02:7B:C8:AA:7A:4C",
+        "channel": "6",
+        "QoS": 0,
+        "latitude": 40.66110992,
+        "longitude": -73.62896729,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-06-04T15:00:00",
+        "description": "02:7B:D8:AA:73:49",
+        "channel": "44",
+        "QoS": 3,
+        "latitude": 40.6628418,
+        "longitude": -73.55309296,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-07-02T18:00:00",
+        "description": "02:7B:D8:AA:7A:4C",
+        "channel": "44",
+        "QoS": 0,
+        "latitude": 40.66096115,
+        "longitude": -73.62909698,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-04-18T20:00:00",
+        "description": "F6:55:A8:08:40:C8",
+        "channel": "11",
+        "QoS": 6,
+        "latitude": 40.72364807,
+        "longitude": -73.57164764,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
+    },
+    {
+        "name": "Adentro OpenRoaming",
+        "type": "4096 5a03ba0000",
+        "confirmedTime": "2024-04-08T08:00:00",
+        "description": "F6:55:B8:08:40:C8",
+        "channel": "48",
+        "QoS": 3,
+        "latitude": 40.72367096,
+        "longitude": -73.57113647,
+        "vendor": "Prefix is not registered",
+        "url": "https://cityroam.jp/"
     }
 ]
