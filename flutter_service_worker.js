@@ -27,15 +27,15 @@ const RESOURCES = {"icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb0489
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/AssetManifest.bin.json": "fc1375b330ac191a703ef2d405809d81",
 "assets/assets/jigjp.png": "a8710d1f1712a39986bc750db0786498",
-"assets/assets/kuma.json": "3236c37f728d0f3d2e9804846a119b42",
+"assets/assets/kuma.json": "7901a70aa07f83df5bc45b3f24994594",
 "assets/assets/kuma.png": "6a9d35fb726f5c675630f22a94d9b4f5",
 "assets/assets/ashiato.png": "6a9d35fb726f5c675630f22a94d9b4f5",
 "assets/assets/sgu.png": "60729de2ded1c60b5f785a0c8d25b13f",
 "assets/fonts/MaterialIcons-Regular.otf": "69de4aeea24e072825d967eb483d4ffd",
 "assets/AssetManifest.json": "d044bb4bf9d956d3eca668e0afc2a9ef",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"index.html": "6941c1ff68d57c84ba9de69e24d22ceb",
-"/": "6941c1ff68d57c84ba9de69e24d22ceb",
+"index.html": "51c3a3915fc1b59fb032589e72279ad7",
+"/": "51c3a3915fc1b59fb032589e72279ad7",
 "main.dart.js": "04003d3bb86b07518d9d01bb7b9be250"};
 // The application shell files that are downloaded before a service worker can
 // start.
