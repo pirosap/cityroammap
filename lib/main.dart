@@ -47,8 +47,8 @@ class KumapPage extends ConsumerWidget {
         options: const MapOptions(
           initialCenter: LatLng(30.0, 0.0),
           initialZoom: 3,
-          minZoom: 3,
-          maxZoom: 18,
+          minZoom: 1,
+          maxZoom: 20,
         ),
         children: [
           TileLayer(
