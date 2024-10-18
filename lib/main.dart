@@ -53,7 +53,7 @@ class KumapPage extends ConsumerWidget {
         children: [
           TileLayer(
             urlTemplate:
-                'http://www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png',
+                'https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png',
           ),
           MarkerLayer(
             markers: [
