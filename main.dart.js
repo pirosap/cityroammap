@@ -61317,9 +61317,10 @@ else r=!0
 return this.of(a,!0,!0,b.b.c,p===B.tw,r,r,b.d)}}
 A.a_T.prototype={
 a3a(a,b){var s,r=A.apS(a),q=r==null?null:r.gcf()
-if(B.FJ.t(0,q))return null
+if(B.FJ.t(0,q))return!1
 s=this.b&&B.FO.t(0,q)?"_top":""
-return this.a.open(a,s,"noopener,noreferrer")},
+this.a.open(a,s,"noopener,noreferrer")
+return!0},
 of(a,b,c,d,e,f,g,h){return this.a2f(a,!0,!0,d,e,f,g,h)},
 a2f(a,b,c,d,e,f,g,h){var s=0,r=A.S(t.y),q,p=this
 var $async$of=A.T(function(i,j){if(i===1)return A.P(j,r)
@@ -61331,7 +61332,7 @@ return A.R($async$of,r)},
 m6(a,b){return this.a2g(a,b)},
 a2g(a,b){var s=0,r=A.S(t.y),q,p=this
 var $async$m6=A.T(function(c,d){if(c===1)return A.P(d,r)
-while(true)switch(s){case 0:q=p.a3a(a,b.d)!=null
+while(true)switch(s){case 0:q=p.a3a(a,b.d)
 s=1
 break
 case 1:return A.Q(q,r)}})
