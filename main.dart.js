@@ -36266,7 +36266,7 @@ A.cT(3,"retries")
 o=t.N
 q=new A.Ui(p,q,A.y(o,o))
 p=$.aiq()
-q=new A.vi("https://tile.openstreetmap.org/{z}/{x}/{y}.png",q,p,m)
+q=new A.vi("http://www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png",q,p,m)
 q.db=B.EP
 q.x=1/0
 q.z=!1?18:19
