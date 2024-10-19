@@ -1,7 +1,7 @@
 [
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:0C:E6:02:49:29",
         "channel": "36",
@@ -37,7 +37,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-05-24T23:00:00.000Z",
         "description": "00:0C:E6:02:AF:28",
         "channel": "6",
@@ -49,7 +49,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-05-24T23:00:00.000Z",
         "description": "00:1D:73:21:0E:C4",
         "channel": "8",
@@ -61,7 +61,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:C2:A5:24",
         "channel": "11",
@@ -73,7 +73,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:C2:AB:53",
         "channel": "1",
@@ -85,7 +85,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:C2:B2:E3",
         "channel": "1",
@@ -97,7 +97,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:C2:B3:14",
         "channel": "6",
@@ -109,7 +109,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:C2:54",
         "channel": "1",
@@ -121,7 +121,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:C6:A4",
         "channel": "6",
@@ -133,7 +133,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:CB:73",
         "channel": "6",
@@ -145,7 +145,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:CB:A4",
         "channel": "1",
@@ -157,7 +157,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:D1:C3",
         "channel": "1",
@@ -169,7 +169,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:D1:D3",
         "channel": "1",
@@ -181,7 +181,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:D3:53",
         "channel": "6",
@@ -193,7 +193,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:D4:43",
         "channel": "11",
@@ -205,7 +205,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:D5:03",
         "channel": "11",
@@ -217,7 +217,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:D5:B5",
         "channel": "1",
@@ -229,7 +229,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:DD:88",
         "channel": "6",
@@ -241,7 +241,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:DD:C3",
         "channel": "6",
@@ -253,7 +253,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:DD:D4",
         "channel": "1",
@@ -265,7 +265,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:DD:F3",
         "channel": "6",
@@ -277,7 +277,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:F2:D3",
         "channel": "1",
@@ -289,7 +289,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:1D:73:F8:F3:73",
         "channel": "11",
@@ -301,7 +301,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:24:A5:79:44:14",
         "channel": "1",
@@ -313,7 +313,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:24:A5:79:44:43",
         "channel": "11",
@@ -325,7 +325,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:24:A5:79:47:43",
         "channel": "1",
@@ -337,7 +337,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:24:A5:7A:AA:E3",
         "channel": "6",
@@ -349,7 +349,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:24:A5:7C:96:C3",
         "channel": "1",
@@ -361,7 +361,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:79:4B",
         "channel": "6",
@@ -373,7 +373,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:7A:DB",
         "channel": "11",
@@ -385,7 +385,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:7A:E9",
         "channel": "1",
@@ -397,7 +397,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:7A:EC",
         "channel": "11",
@@ -409,7 +409,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:7B:21",
         "channel": "1",
@@ -421,7 +421,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:7B:B5",
         "channel": "12",
@@ -433,7 +433,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:7B:CD",
         "channel": "11",
@@ -445,7 +445,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:7B:DD",
         "channel": "11",
@@ -457,7 +457,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:99:98:0B",
         "channel": "8",
@@ -469,7 +469,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:81:BB",
         "channel": "6",
@@ -481,7 +481,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:81:F0",
         "channel": "11",
@@ -493,7 +493,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:84:36",
         "channel": "6",
@@ -505,7 +505,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:85:52",
         "channel": "1",
@@ -517,7 +517,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:86:67",
         "channel": "1",
@@ -529,7 +529,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:87:D0",
         "channel": "1",
@@ -541,7 +541,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:87:D1",
         "channel": "6",
@@ -553,7 +553,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:88:00",
         "channel": "1",
@@ -565,7 +565,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:8F:47",
         "channel": "11",
@@ -577,7 +577,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:8F:4B",
         "channel": "11",
@@ -589,7 +589,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:C9:8F:6C",
         "channel": "1",
@@ -601,7 +601,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "00:90:C7:FB:E8:FA",
         "channel": "13",
@@ -1081,7 +1081,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:00:F5:F3",
         "channel": "2",
@@ -1093,7 +1093,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:00:F5:F4",
         "channel": "6",
@@ -1105,7 +1105,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:00:F6:25",
         "channel": "44",
@@ -1117,7 +1117,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:00:F6:26",
         "channel": "100",
@@ -1129,7 +1129,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:01:97:1D",
         "channel": "13",
@@ -1141,7 +1141,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:01:97:1E",
         "channel": "7",
@@ -1153,7 +1153,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:01:97:20",
         "channel": "8",
@@ -1165,7 +1165,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:01:97:21",
         "channel": "4",
@@ -1177,7 +1177,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:04",
         "channel": "4",
@@ -1189,7 +1189,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:5A",
         "channel": "12",
@@ -1201,7 +1201,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:60",
         "channel": "104",
@@ -1213,7 +1213,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:6D",
         "channel": "100",
@@ -1225,7 +1225,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:6F",
         "channel": "4",
@@ -1237,7 +1237,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:85",
         "channel": "1",
@@ -1249,7 +1249,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:89",
         "channel": "108",
@@ -1261,7 +1261,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:8C",
         "channel": "1",
@@ -1273,7 +1273,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:90",
         "channel": "4",
@@ -1285,7 +1285,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:97",
         "channel": "8",
@@ -1297,7 +1297,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4B:98",
         "channel": "8",
@@ -1309,7 +1309,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:F8:4D:52",
         "channel": "12",
@@ -1321,7 +1321,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-05-24T23:00:00.000Z",
         "description": "06:90:C7:FE:C3:75",
         "channel": "4",
@@ -1333,7 +1333,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:76",
         "channel": "4",
@@ -1345,7 +1345,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:78",
         "channel": "4",
@@ -1357,7 +1357,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:79",
         "channel": "4",
@@ -1369,7 +1369,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:A2",
         "channel": "4",
@@ -1381,7 +1381,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:A3",
         "channel": "8",
@@ -1393,7 +1393,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:A4",
         "channel": "12",
@@ -1405,7 +1405,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:A5",
         "channel": "2",
@@ -1417,7 +1417,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:A6",
         "channel": "6",
@@ -1429,7 +1429,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:E8",
         "channel": "10",
@@ -1441,7 +1441,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:E9",
         "channel": "2",
@@ -1453,7 +1453,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:EA",
         "channel": "6",
@@ -1465,7 +1465,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:EB",
         "channel": "10",
@@ -1477,7 +1477,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C3:EC",
         "channel": "1",
@@ -1489,7 +1489,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C4:FB",
         "channel": "4",
@@ -1501,7 +1501,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-05-24T23:00:00.000Z",
         "description": "06:90:C7:FE:C4:FF",
         "channel": "4",
@@ -1513,7 +1513,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FE:C5:04",
         "channel": "1",
@@ -1525,7 +1525,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FF:26:49",
         "channel": "4",
@@ -1537,7 +1537,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FF:26:4A",
         "channel": "4",
@@ -1549,7 +1549,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "06:90:C7:FF:FF:87",
         "channel": "8",
@@ -5665,7 +5665,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3E:84",
         "channel": "5",
@@ -5677,7 +5677,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3E:86",
         "channel": "5",
@@ -5689,7 +5689,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3E:8C",
         "channel": "6",
@@ -5701,7 +5701,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3E:90",
         "channel": "4",
@@ -5713,7 +5713,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3E:92",
         "channel": "2",
@@ -5725,7 +5725,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3F:44",
         "channel": "1",
@@ -5737,7 +5737,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3F:48",
         "channel": "6",
@@ -5749,7 +5749,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3F:4E",
         "channel": "2",
@@ -5761,7 +5761,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3F:50",
         "channel": "6",
@@ -5773,7 +5773,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:75:3F:52",
         "channel": "6",
@@ -5785,7 +5785,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:60:B4",
         "channel": "5",
@@ -5797,7 +5797,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:60:C6",
         "channel": "5",
@@ -5809,7 +5809,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:60:C8",
         "channel": "5",
@@ -5821,7 +5821,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:60:CA",
         "channel": "5",
@@ -5833,7 +5833,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:60:CE",
         "channel": "5",
@@ -5845,7 +5845,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:60:D0",
         "channel": "6",
@@ -5857,7 +5857,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:61:AE",
         "channel": "6",
@@ -5869,7 +5869,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:61:C4",
         "channel": "4",
@@ -5881,7 +5881,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:61:CE",
         "channel": "1",
@@ -5893,7 +5893,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:61:D0",
         "channel": "6",
@@ -5905,7 +5905,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:61:E6",
         "channel": "6",
@@ -5917,7 +5917,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:61:EA",
         "channel": "5",
@@ -5929,7 +5929,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:65:2C",
         "channel": "6",
@@ -5941,7 +5941,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:65:2E",
         "channel": "5",
@@ -5953,7 +5953,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:65:30",
         "channel": "5",
@@ -5965,7 +5965,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:97:65:32",
         "channel": "6",
@@ -5977,7 +5977,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:E7:58:D8",
         "channel": "8",
@@ -5989,7 +5989,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "2E:5C:4C:E7:59:52",
         "channel": "7",
@@ -6349,7 +6349,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "60:D0:2C:0A:16:89",
         "channel": "6",
@@ -6361,7 +6361,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "60:D0:2C:0A:1B:5D",
         "channel": "128",
@@ -6757,7 +6757,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-07-11T08:00:00.000Z",
         "description": "94:B3:4F:95:89:FC",
         "channel": "128",
@@ -7441,7 +7441,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-07-10T21:00:00.000Z",
         "description": "9C:8C:D8:D4:12:12",
         "channel": "124",
@@ -8569,7 +8569,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "CA:5C:4C:90:E8:47",
         "channel": "36",
@@ -8581,7 +8581,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "CA:5C:4C:90:EA:C8",
         "channel": "9",
@@ -8593,7 +8593,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "CA:5C:4C:90:EA:C9",
         "channel": "36",
@@ -8605,7 +8605,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:77:D9",
         "channel": "1",
@@ -8617,7 +8617,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:77:DD",
         "channel": "56",
@@ -8629,7 +8629,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:77:ED",
         "channel": "120",
@@ -8641,7 +8641,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:80:F9",
         "channel": "11",
@@ -8653,7 +8653,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:80:FD",
         "channel": "48",
@@ -8665,7 +8665,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:81:99",
         "channel": "1",
@@ -8677,7 +8677,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:81:A9",
         "channel": "1",
@@ -8689,7 +8689,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:81:B9",
         "channel": "11",
@@ -8701,7 +8701,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:81:BD",
         "channel": "112",
@@ -8713,7 +8713,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "D8:38:FC:11:82:BD",
         "channel": "112",
@@ -9565,7 +9565,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3E:85",
         "channel": "58",
@@ -9577,7 +9577,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3E:87",
         "channel": "58",
@@ -9589,7 +9589,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3E:8B",
         "channel": "120",
@@ -9601,7 +9601,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3E:8D",
         "channel": "48",
@@ -9613,7 +9613,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3E:8F",
         "channel": "112",
@@ -9625,7 +9625,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3E:91",
         "channel": "58",
@@ -9637,7 +9637,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3E:93",
         "channel": "128",
@@ -9649,7 +9649,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3F:45",
         "channel": "58",
@@ -9661,7 +9661,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3F:49",
         "channel": "124",
@@ -9673,7 +9673,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3F:4F",
         "channel": "120",
@@ -9685,7 +9685,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:75:3F:51",
         "channel": "36",
@@ -9697,7 +9697,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:B5",
         "channel": "40",
@@ -9709,7 +9709,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:C3",
         "channel": "108",
@@ -9721,7 +9721,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:C7",
         "channel": "56",
@@ -9733,7 +9733,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:C9",
         "channel": "56",
@@ -9745,7 +9745,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:CB",
         "channel": "100",
@@ -9757,7 +9757,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:CF",
         "channel": "44",
@@ -9769,7 +9769,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:D1",
         "channel": "100",
@@ -9781,7 +9781,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:60:D3",
         "channel": "124",
@@ -9793,7 +9793,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:69",
         "channel": "56",
@@ -9805,7 +9805,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:71",
         "channel": "128",
@@ -9817,7 +9817,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:A5",
         "channel": "60",
@@ -9829,7 +9829,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:A7",
         "channel": "48",
@@ -9841,7 +9841,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:A9",
         "channel": "58",
@@ -9853,7 +9853,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:AB",
         "channel": "58",
@@ -9865,7 +9865,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:AF",
         "channel": "58",
@@ -9877,7 +9877,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:CF",
         "channel": "58",
@@ -9889,7 +9889,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:D1",
         "channel": "36",
@@ -9901,7 +9901,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:E7",
         "channel": "128",
@@ -9913,7 +9913,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:EB",
         "channel": "40",
@@ -9925,7 +9925,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:61:F3",
         "channel": "52",
@@ -9937,7 +9937,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:65:2B",
         "channel": "36",
@@ -9949,7 +9949,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:65:2D",
         "channel": "112",
@@ -9961,7 +9961,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:65:2F",
         "channel": "40",
@@ -9973,7 +9973,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:65:31",
         "channel": "128",
@@ -9985,7 +9985,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:97:65:33",
         "channel": "56",
@@ -9997,7 +9997,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2022-06-09T14:00:00.000Z",
         "description": "DE:5C:4C:E7:59:53",
         "channel": "104",
@@ -10273,7 +10273,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "EC:8C:A2:15:77:8D",
         "channel": "124",
@@ -10297,7 +10297,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "F0:B0:52:2D:73:09",
         "channel": "11",
@@ -10309,7 +10309,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "F0:B0:52:2D:73:0D",
         "channel": "100",
@@ -10333,7 +10333,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "F0:B0:52:32:9C:09",
         "channel": "1",
@@ -10345,7 +10345,7 @@
     },
     {
         "name": "eduroam",
-        "type": NaN,
+        "type": "0",
         "confirmedTime": "2023-11-11T03:00:00.000Z",
         "description": "F0:B0:52:32:9C:0D",
         "channel": "116",
